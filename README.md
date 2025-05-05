@@ -1,4 +1,13 @@
-# Astro Starter Kit: Minimal
+# Astro Blog Tutorial
+
+This is a step-by-step tutorial to create a simple blog using Astro. We'll cover creating new pages, components, layouts, and styling them.
+
+## 🚀 Getting Started
+
+First, make sure you have Node.js and npm (or pnpm) installed.
+
+1.  **Create a new Astro project:**
+
 
 ```sh
 pnpm create astro@latest -- --template minimal
